@@ -36,9 +36,14 @@ body{
     border: 2px solid rebeccapurple;
     background-color: bisque;
 }
-div.bg{
+div.row{
     background-color: bisque;
+    padding: 15px;
+    margin:5px;
+    border : 2px solid rebeccapurple;
 }
+
+
 h3{
     font-weight: 700;
     color: rebeccapurple;
