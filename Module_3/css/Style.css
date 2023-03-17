@@ -1,1 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    background-color: aliceblue;
+}
+#header-nav{
+    background-color:azure;
+    border-radius: 0;
+    border:0;
+}
+.navbar-brand{
+    padding-top: 25px;
+}
+.navbar-brand h1{
+    color: rebeccapurple;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: -15px;
+    font-size: 1.5em;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a{
+    color:#222;
+    text-align:center;
+}
+#nav-list li a:hover{
+    background-color: bisque;
+    color:rebeccapurple;
+    font-weight: 700;
+    border-radius: 50px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 2px solid rebeccapurple;
+    background-color: bisque;
+}
+div.bg{
+    background-color: bisque;
+}
+h3{
+    font-weight: 700;
+    color: rebeccapurple;
+}
+@media (min-width:1200px){
 
+}
+@media (min-width:992px) and (max-width:1199px){
+    
+}
+@media (max-width:991px){
+
+}
